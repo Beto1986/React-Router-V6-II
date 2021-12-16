@@ -1,3 +1,5 @@
+Ejercitación de React router V6. El sitio consta de 3 secciones(Home, Users, About). Se trabaja principalmente en la sección de usuarios en donde se muestra una lista de usuarios con su respectivo filtro de búsqueda. Tambien utilizamos la propiedad Outlet para mostrar el detalle de cada usuario en un apartado sin necesidad de irnos de la página actual.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
